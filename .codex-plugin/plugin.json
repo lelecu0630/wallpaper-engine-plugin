@@ -1,0 +1,14 @@
+{
+  "name": "wallpaper-engine-local",
+  "version": "0.1.0",
+  "description": "Local Wallpaper Engine library, playback and experimental window-only editor controls. No subscription or publishing workflow.",
+  "author": {"name": "Personal local plugin"},
+  "mcpServers": "./.mcp.json",
+  "requires_local_executor": true,
+  "interface": {
+    "displayName": "Wallpaper Engine Local",
+    "shortDescription": "Wallpaper Engine 전용 로컬 제어 도구",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"]
+  }
+}

@@ -1,0 +1,1 @@
+{"mcpServers":{"wallpaper_engine":{"command":"node","args":["server.mjs"],"cwd":".","startup_timeout_sec":20,"tool_timeout_sec":30}}}
