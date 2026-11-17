@@ -1,5 +1,7 @@
 # Wallpaper Engine Local MCP
 
+[English documentation](README.en.md)
+
 Windows용 Wallpaper Engine 전용 로컬 MCP 플러그인. Node.js 20 이상과 ChatGPT 데스크톱 Work/Codex가 필요합니다.
 
 ## 한 번에 설치
